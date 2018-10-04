@@ -1,2 +1,0 @@
-# SSD
-For SSD Assignments 
